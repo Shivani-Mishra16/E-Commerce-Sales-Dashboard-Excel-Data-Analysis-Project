@@ -2,7 +2,7 @@
 
 **Overview:**
 
-This project showcases is an **Interactive E-Commerce Sales Dashboard** built using Microsoft Excel to analyze and visualize sales data. It provides insights into business performance across different regions, categories, and time periods, helping users make data-driven decisions.
+  This project showcases is an **Interactive E-Commerce Sales Dashboard** built using Microsoft Excel to analyze and visualize sales data. It provides insights into business performance across different regions, categories, and time periods, helping users make data-driven decisions.
 
 **Objectives:**
 
@@ -32,7 +32,7 @@ This project showcases is an **Interactive E-Commerce Sales Dashboard** built us
 
 **DASHBOARD INSIGHT**
 
-**VISUALIZATIONS:**
+**Visualizations:**
 
 1. **Month-wise Sales Analysis-** Tracks performance across months
 2. **Sub-Category Sales (Tree Map)-** Highlights top-selling products
