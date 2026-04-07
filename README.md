@@ -1,10 +1,10 @@
 # E-Commerce-Sales-Dashboard-Excel-Data-Analysis-Project
 
-**Overview:**
+**Overview**
 
   This project showcases is an **Interactive E-Commerce Sales Dashboard** built using Microsoft Excel to analyze and visualize sales data. It provides insights into business performance across different regions, categories, and time periods, helping users make data-driven decisions.
 
-**Objectives:**
+**Objectives**
 
 1. Analyze overall sales performance
 2. Identify top-performing categories and sub-categories
@@ -26,18 +26,18 @@
 
 **KPIs Displayed**
 
-1. **Total Sales**: 597,712,274
-2. **Average Rating**: 2.9982
-3. **Average  Discount**: 14.98%
+1. **Total Sales:** 597,712,274
+2. **Average Rating:** 2.9982
+3. **Average  Discount:** 14.98%
 
 **DASHBOARD INSIGHT**
 
-**Visualizations:**
+**Visualizations**
 
-1. **Month-wise Sales Analysis-** Tracks performance across months
-2. **Sub-Category Sales (Tree Map)-** Highlights top-selling products
-3. **Region-wise Sales Chart-** Compares regional performance
-4. **State/City-wise Sales (Donut Chart)-** Shows geographic distribution.
+1. **Month-wise Sales Analysis:** Tracks performance across months
+2. **Sub-Category Sales (Tree Map):** Highlights top-selling products
+3. **Region-wise Sales Chart:** Compares regional performance
+4. **State/City-wise Sales (Donut Chart):** Shows geographic distribution.
 
 **Insights Derived**
 1. Identified **top-performing months** and seasonal trends
@@ -52,7 +52,7 @@
 3. Use slicers to interact with the dashboard
 4. Explore insights through charts and KPIs.
 
-**Use Cases:**
+**Use Cases**
 
 1. Business performance monitoring
 2. Sales trend analysis
