@@ -7,9 +7,13 @@ This project is an interactive E-Commerce Sales Dashboard built using Microsoft 
 **Objectives:**
 
 (a) Analyze overall sales performance
+
 (b) Identify top-performing categories and sub-categories
+
 (c) Track monthly sales trends
+
 (d) Compare regional and city-wise sales distribution
+
 (e) Evaluate customer ratings and discount patterns.
 
 **Tools & Techniques Used**
@@ -27,7 +31,9 @@ This project is an interactive E-Commerce Sales Dashboard built using Microsoft 
 **KPIs Displayed**
 
 **Total Sales**: 597,712,274
+
 **Average Rating**: 2.9982
+
 **Average  Discount**: 14.98%
 
 **DASHBOARD INSIGHT**
@@ -35,8 +41,11 @@ This project is an interactive E-Commerce Sales Dashboard built using Microsoft 
 **Monthly Sales Analysis:**
 
 (a) Identifies peak and low-performing months
+
 (b) Sub-Category Performance: Highlights top-selling product types
+
 (c) Region-wise Sales: Compares sales across different regions
+
 (d) State/City-wise Sales: Visualizes geographic distribution of revenue.
 
 **How to Use**
@@ -48,6 +57,9 @@ This project is an interactive E-Commerce Sales Dashboard built using Microsoft 
 **Use Cases:**
 
 (a) Business performance monitoring
+
 (b) Sales trend analysis
+
 (c) Customer behavior insights
+
 (d) Strategic decision-making
