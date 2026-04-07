@@ -6,15 +6,11 @@ This project showcases is an **Interactive E-Commerce Sales Dashboard** built us
 
 **Objectives:**
 
-(a) Analyze overall sales performance
-
-(b) Identify top-performing categories and sub-categories
-
-(c) Track monthly sales trends
-
-(d) Compare regional and city-wise sales distribution
-
-(e) Evaluate customer ratings and discount patterns.
+1. Analyze overall sales performance
+2. Identify top-performing categories and sub-categories
+3. Track monthly sales trends
+4. Compare regional and city-wise sales distribution
+5. Evaluate customer ratings and discount patterns.
 
 **Tools & Techniques Used**
 1. Microsoft Excel
@@ -30,11 +26,9 @@ This project showcases is an **Interactive E-Commerce Sales Dashboard** built us
 
 **KPIs Displayed**
 
-**Total Sales**: 597,712,274
-
-**Average Rating**: 2.9982
-
-**Average  Discount**: 14.98%
+1. **Total Sales**: 597,712,274
+2. **Average Rating**: 2.9982
+3. **Average  Discount**: 14.98%
 
 **DASHBOARD INSIGHT**
 
@@ -60,10 +54,7 @@ This project showcases is an **Interactive E-Commerce Sales Dashboard** built us
 
 **Use Cases:**
 
-(a) Business performance monitoring
-
-(b) Sales trend analysis
-
-(c) Customer behavior insights
-
-(d) Strategic decision-making
+1. Business performance monitoring
+2. Sales trend analysis
+3. Customer behavior insights
+4. Strategic decision-making
