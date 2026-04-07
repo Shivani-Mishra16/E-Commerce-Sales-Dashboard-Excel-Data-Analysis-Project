@@ -2,7 +2,7 @@
 
 **Overview:**
 
-This project is an interactive E-Commerce Sales Dashboard built using Microsoft Excel to analyze and visualize sales data. It provides insights into business performance across different regions, categories, and time periods, helping users make data-driven decisions.
+This project showcases is an **Interactive E-Commerce Sales Dashboard** built using Microsoft Excel to analyze and visualize sales data. It provides insights into business performance across different regions, categories, and time periods, helping users make data-driven decisions.
 
 **Objectives:**
 
@@ -19,9 +19,9 @@ This project is an interactive E-Commerce Sales Dashboard built using Microsoft 
 **Tools & Techniques Used**
 1. Microsoft Excel
 2. Pivot Tables & Pivot Charts
-3. Slicers for interactivity
+3. Slicers & Timeline filters for interactivity
 4. Data Cleaning & Transformation
-5. Dashboard Design & Formatting.
+5. Dashboard Design & UI Formatting.
  
 **Key Features**
 1. **Region Filter**: East, West, North, South
@@ -38,15 +38,19 @@ This project is an interactive E-Commerce Sales Dashboard built using Microsoft 
 
 **DASHBOARD INSIGHT**
 
-**Monthly Sales Analysis:**
+**VISUALIZATIONS:**
 
-(a) Identifies peak and low-performing months
+1. **Month-wise Sales Analysis-** Tracks performance across months
+2. **Sub-Category Sales (Tree Map)-** Highlights top-selling products
+3. **Region-wise Sales Chart-** Compares regional performance
+4. **State/City-wise Sales (Donut Chart)-** Shows geographic distribution.
 
-(b) Sub-Category Performance: Highlights top-selling product types
-
-(c) Region-wise Sales: Compares sales across different regions
-
-(d) State/City-wise Sales: Visualizes geographic distribution of revenue.
+**Insights Derived**
+1. Identified **top-performing months** and seasonal trends
+2. Electronics and Home categories contribute significantly to sales
+3. Certain regions outperform others in revenue generation
+4. Discounts have a visible impact on sales volume
+5. Customer ratings are relatively moderate (~3.0 avg).
 
 **How to Use**
 1. Download the Excel file
