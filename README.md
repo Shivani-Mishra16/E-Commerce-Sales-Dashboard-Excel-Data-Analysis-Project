@@ -1,10 +1,10 @@
 # E-Commerce-Sales-Dashboard-Excel-Data-Analysis-Project
 
-**Overview**
+**OVERVIEW**
 
   This project showcases is an **Interactive E-Commerce Sales Dashboard** built using Microsoft Excel to analyze and visualize sales data. It provides insights into business performance across different regions, categories, and time periods, helping users make data-driven decisions.
 
-**Objectives**
+**OBJECTIVES**
 
 1. Analyze overall sales performance
 2. Identify top-performing categories and sub-categories
@@ -12,19 +12,21 @@
 4. Compare regional and city-wise sales distribution
 5. Evaluate customer ratings and discount patterns.
 
-**Tools & Techniques Used**
+**TOOLS & TECHNOLOGIES USED**
+
 1. Microsoft Excel
 2. Pivot Tables & Pivot Charts
 3. Slicers & Timeline filters for interactivity
 4. Data Cleaning & Transformation
 5. Dashboard Design & UI Formatting.
  
-**Key Features**
+**KEY FEATURES**
+
 1. **Region Filter**: East, West, North, South
 2. **Category Filter**: Clothing, Electronics, Home & Kitchen, Sports
 3. **Data Slicer**: Monthly filtering for trend analysis.
 
-**KPIs Displayed**
+**KPIs DISPLAYED**
 
 1. **Total Sales:** 597,712,274
 2. **Average Rating:** 2.9982
@@ -32,27 +34,27 @@
 
 **DASHBOARD INSIGHT**
 
-**Visualizations**
+**VISUALIZATIONS**
 
 1. **Month-wise Sales Analysis:** Tracks performance across months
 2. **Sub-Category Sales (Tree Map):** Highlights top-selling products
 3. **Region-wise Sales Chart:** Compares regional performance
 4. **State/City-wise Sales (Donut Chart):** Shows geographic distribution.
 
-**Insights Derived**
+**INSIGHTS DERIVED**
 1. Identified **top-performing months** and seasonal trends
 2. Electronics and Home categories contribute significantly to sales
 3. Certain regions outperform others in revenue generation
 4. Discounts have a visible impact on sales volume
 5. Customer ratings are relatively moderate (~3.0 avg).
 
-**How to Use**
+**HOW TO USE**
 1. Download the Excel file
 2. Open in Microsoft Excel
 3. Use slicers to interact with the dashboard
 4. Explore insights through charts and KPIs.
 
-**Use Cases**
+**USE CASES**
 
 1. Business performance monitoring
 2. Sales trend analysis
